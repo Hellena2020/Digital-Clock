@@ -5,7 +5,7 @@ function showTime(){
     var s = date.getSeconds(); // 0 - 59
     var session = "AM";
     
-    if(h == 0){
+    if(h == 02){
         h = 12;
     }
     
